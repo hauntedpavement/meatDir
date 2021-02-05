@@ -1,0 +1,7 @@
+{
+  "name": "meatDir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
